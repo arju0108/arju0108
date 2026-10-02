@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hey there, I'm Arju Shukla 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### Data Engineer | MSITM Candidate at UT Austin
+# Hey there, I'm Arju Shukla
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4756A&center=true&vCenter=true&width=435&lines=Data+Engineer;MSITM+Candidate+at+UT+Austin;Building+scalable+data+pipelines;Turning+messy+data+into+insights" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arju0108.github.io-B4756A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arju0108.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arju%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arju-shukla)
-[![Email](https://img.shields.io/badge/Email-arju01usa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arju01usa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arju010896@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arju010896@gmail.com)
 
 </div>
 
@@ -44,7 +46,7 @@
 
 - [Portfolio](https://arju0108.github.io)
 - [LinkedIn](https://www.linkedin.com/in/arju-shukla)
-- [Email](mailto:arju01usa@gmail.com)
+- [Email](mailto:arju010896@gmail.com)
 
 ---
 

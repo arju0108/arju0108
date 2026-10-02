@@ -4,7 +4,7 @@
 
 # Hey there, I'm Arju Shukla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4756A&center=true&vCenter=true&width=435&lines=Data+Engineer;MSITM+Candidate+at+UT+Austin;Building+scalable+data+pipelines;Turning+messy+data+into+insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4756A&center=true&vCenter=true&width=435&lines=Data+Engineer;Where+Data+Meets+Engineering;MSITM+Candidate+at+UT+Austin;Building+scalable+data+pipelines;Turning+messy+data+into+insights" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arju0108.github.io-B4756A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arju0108.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arju%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arju-shukla)
